@@ -1,0 +1,14 @@
+D:\Estudos\dotnet\PrimeiroDesafioPraticoC#\obj\Debug\net8.0\PrimeiroDesafioPraticoC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\dotnet\PrimeiroDesafioPraticoC#\obj\Debug\net8.0\PrimeiroDesafioPraticoC#.AssemblyInfoInputs.cache
+D:\Estudos\dotnet\PrimeiroDesafioPraticoC#\obj\Debug\net8.0\PrimeiroDesafioPraticoC#.AssemblyInfo.cs
+D:\Estudos\dotnet\PrimeiroDesafioPraticoC#\obj\Debug\net8.0\PrimeiroDesafioPraticoC#.csproj.CoreCompileInputs.cache
+D:\Estudos\dotnet\PrimeiroDesafioPraticoC#\bin\Debug\net8.0\PrimeiroDesafioPraticoC#.exe
+D:\Estudos\dotnet\PrimeiroDesafioPraticoC#\bin\Debug\net8.0\PrimeiroDesafioPraticoC#.deps.json
+D:\Estudos\dotnet\PrimeiroDesafioPraticoC#\bin\Debug\net8.0\PrimeiroDesafioPraticoC#.runtimeconfig.json
+D:\Estudos\dotnet\PrimeiroDesafioPraticoC#\bin\Debug\net8.0\PrimeiroDesafioPraticoC#.dll
+D:\Estudos\dotnet\PrimeiroDesafioPraticoC#\bin\Debug\net8.0\PrimeiroDesafioPraticoC#.pdb
+D:\Estudos\dotnet\PrimeiroDesafioPraticoC#\obj\Debug\net8.0\PrimeiroDesafioPraticoC#.dll
+D:\Estudos\dotnet\PrimeiroDesafioPraticoC#\obj\Debug\net8.0\refint\PrimeiroDesafioPraticoC#.dll
+D:\Estudos\dotnet\PrimeiroDesafioPraticoC#\obj\Debug\net8.0\PrimeiroDesafioPraticoC#.pdb
+D:\Estudos\dotnet\PrimeiroDesafioPraticoC#\obj\Debug\net8.0\PrimeiroDesafioPraticoC#.genruntimeconfig.cache
+D:\Estudos\dotnet\PrimeiroDesafioPraticoC#\obj\Debug\net8.0\ref\PrimeiroDesafioPraticoC#.dll
